@@ -1,0 +1,61 @@
+<!doctype html>
+<b>
+<html>
+<head>
+<style type="text/css">
+a:link {
+COLOR: blue; text-decoration: none
+}
+a:visited {
+COLOR: purple;
+}
+a:hover {
+COLOR: white;
+}
+a:active {
+COLOR: green;
+}
+</style>
+
+<div>
+<h1 style= "text-align: center;  color: green;font-size: 40px;font-family: lucida console"> 
+Corey Andrew Shaffer </div> </hr>
+</head>
+</b>
+
+<b>
+<body>
+<div><table border= "border-style: outset"> 
+<td style= "color: #0099CC;font-size: 40px;font-family: arial"><a href= "https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile"> LinkedIn </a> </td>
+<tr><td style= "color: blue;font-size: 40px;font-family: arial"> <a href= "https://www.facebook.com/goffyco69"> Facebook </a></tr></td>
+<tr><td style= "color: #00FF00;font-size: 40px;font-family: arial ">  Cover Letter</tr></td>
+<tr><td style= "color: Yellow;font-size: 40px;font-family: arial "> Resume </tr></td>
+<tr><td style= "color: #FF6600;font-size: 40px;font-family: arial "> Examples of Work </tr></td>
+</div>
+</p>
+</body>
+</b> <b>
+<div style= "text-align: justify; width: 550px; color: white;font-size: 18px; position: absolute; margin: 10px; top:60px; left: 165px"> <p style= "text-indent: 50px; Position: relative; left: 500px"> <img style= "float: left; padding: 10px" src= "proffpic.png"/>Hello, my name is Corey Shaffer. If you are on this website that means that I want you to get to know me better, perhaps you are hiring! In any circumstance I will give you a brief overview. To the left you can see some links to important resources that can help you to better understand me. First thing first, I wrote the code for this website alone, I am self-taught in HTML and CSS.  
+</p><br/><p style= "text-indent: 50px; Position: relative; left: 500px">My name is Corey Andrew Shaffer. I am an aspiring developer. I am currently teaching myself Python programming and related technologies such as: Linux Shell, Web design, App development, HTML5, basic Java, JQuery, Flask, and Django. I am learning through a variety of resources such as Udemy, EdX and a number of programming books. For the most part I am spending a lot of my time learning Python right now. However, I am willing to learn any other programming language or tool that is necessary, and I hope you will find that I am a quick study!
+
+My journey to become a programmer is somewhat atypical. My Bachelor degree is not in the computer sciences but has given me experience in higher thinking, Logic, as well as teamwork. I currently teach middle school, which I enjoy, but plan on changing careers soon. I have found a joy and passion for computers, especially programming, which has lead to my career change. My goal is to be the best programmer I can be.
+
+Hobbies of mine include: Hiking, reading, learning new things, and of course programming. I am married to my beautiful wife Lizbeth and we are both looking forward to the changes that becoming a programmer entails. She has helped me a lot in my studies and has always been very supportive of my decision. So, I hope that you have learned a little about me and that you consider me for an interview.
+
+Thank you,
+
+Corey A. Shaffer
+
+You can follow me on Twitter @programjourney1
+
+Email me at programjourney1@gmail.com
+
+See my Linkedin
+</p><br/><p style= "text-indent: 50px; Position: relative; left: 500px"> I hope you enjoy my website and please consider hiring me. </p>
+</p> 
+<p style= "text-align: right; position: relative; left: 500px "> ,Corey A. Shaffer </p> </div>
+</div>
+
+
+
+<style> body {background-color: black} </style> 
